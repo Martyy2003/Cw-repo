@@ -1,0 +1,7 @@
+pyrogram==1.4.16
+tgcrypto
+requests
+pyromod
+yt-dlp
+ffmpeg
+psutil
