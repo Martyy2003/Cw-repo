@@ -1,8 +1,9 @@
+
 {
 
-    "name": "Cw-repo",
+    "name": "MG",
 
-    "description": "Download videos from various websites using this telegram bot",
+    "description": "A Modular telegram bot.",
 
     "repository": "https://github.com/Martyy2003/Cw-repo",
     "buildpacks":[
@@ -57,9 +58,6 @@
         },
        {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        },
-       {
-            "url": "https://github.com/amivin/aria2-heroku.git"
         }
 
     ]
